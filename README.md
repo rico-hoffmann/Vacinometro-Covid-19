@@ -72,4 +72,4 @@ Que São Paulo é o estado que mais recebe e distribui doses de vacinas e que no
 <br />
 Ainda temos 25,09% da população vacinada com a primeira dose e quando falamos em segunda dose, caímos para 11,27%.
 
-## Se gostou e quer conferir como funciona, acesse o [Vacinômetro Covid-19](https://bit.ly/vacinometro_jrsolucoes) e navegue por todas as telas, clicando nos filtros e conferir toda a sua interatividade.
+## > Se gostou e quer conferir como funciona, acesse o [Vacinômetro Covid-19](https://bit.ly/vacinometro_jrsolucoes) e navegue por todas as telas, clicando nos filtros e conferir toda a sua interatividade.
