@@ -56,7 +56,7 @@ Para navegar para a segunda tela, basta clicar no ícone do calendário na cor c
 * *Clique na imagem para ver em tela cheia*
 <br />
 
-Da mesma forma que na tela da análise de doses por estado, nessa tela, também temos ao filtro na lateral esquerda que filtra todo o painel e também fica 
+>Da mesma forma que na tela da análise de doses por estado, nessa tela, também temos ao filtro na lateral esquerda que filtra todo o painel e também fica 
 disponível na parte superior esquerda o ícone do estado na cor cinza para que se possa voltar para a tela da análise de aplicações por estado.
 <br />
 Outro ponto, que podemos perceber nas 2 telas no canto superior esquerdo, que sempre é apresentado a data e horário da última atualização.
